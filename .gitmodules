@@ -1,0 +1,3 @@
+[submodule "third_party/reckless"]
+	path = third_party/reckless
+	url = git@github.com:mattiasflodin/reckless.git
